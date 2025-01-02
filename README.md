@@ -1,4 +1,4 @@
-# Intern - Seeking Alpha Scraper
+# 2024.11 - 2025.02 Summer Intern - Seeking Alpha Scraper
 
 
 
